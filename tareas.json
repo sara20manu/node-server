@@ -1,14 +1,17 @@
 [
   {
+    "id": 1,
     "description": "prueba 1",
     "completed": false
   },
   {
+    "id": 2,
     "description": "prueba 2",
     "completed": false
   },
   {
-    "description": "completar este indice",
-    "completed": true
+    "id": 3,
+    "description": "prueba 3",
+    "completed": false
   }
 ]
